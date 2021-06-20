@@ -1,7 +1,7 @@
 # Hello, I'm Łukasz 😎
 I'm a front end web developer.
 
-## Technologies that I use:
+## Technologies that I use the most:
 - JavaScript
 - TypeScript
 - Python
