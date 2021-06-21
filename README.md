@@ -9,6 +9,7 @@ I'm a front end web developer.
 - GraphQL
 - Gatsby
 - Firebase
+- Webpack
 
 If you want to contact me, here's my mail: lukasz.karasinski.15@gmail.com
 
