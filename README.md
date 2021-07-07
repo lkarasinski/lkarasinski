@@ -10,6 +10,7 @@ I'm a front end web developer.
 - Gatsby
 - Firebase
 - Webpack
+- Three.js
 
 If you want to contact me, here's my mail: lukasz.karasinski.15@gmail.com
 
