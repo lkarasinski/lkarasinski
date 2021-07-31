@@ -8,6 +8,7 @@ I'm a front end web developer.
 - React
 - GraphQL
 - Gatsby
+- Next.JS
 - Firebase
 - Webpack
 - Three.js
