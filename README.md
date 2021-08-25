@@ -6,6 +6,7 @@ I'm a front end web developer.
 - TypeScript
 - Python
 - React
+- React Native
 - GraphQL
 - Gatsby
 - Next.JS
